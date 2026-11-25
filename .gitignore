@@ -1,1 +1,11 @@
-.idea
+# Go binaries
+*.exe
+*.out
+*.test
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
